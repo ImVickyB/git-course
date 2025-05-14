@@ -1,2 +1,3 @@
 Git revise panran
-change pantan ipo
+change pantan ipogit
+3rd
